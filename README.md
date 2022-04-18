@@ -1,4 +1,4 @@
-### Hi, I'm Jean Queiroz, welcome to my profile. 👋
+### Hi, I'm Jean Queiroz, welcome to my Personal-profile. 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/jcqueiroz)
 ![](https://komarev.com/ghpvc/?username=jcqueiroz&color=blueviolet)
 
