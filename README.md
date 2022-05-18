@@ -1,7 +1,6 @@
 ### Hi, I'm Jean Queiroz, welcome to my Personal-profile. 🙋‍♂️
 
-🖥️ Computer Geek , ☕ Coffee Addict , Currently Learning ☁️  DevOps and Cloud aproach.
-
+🖥️ Computer Geek , ☕ Coffee Addict , ☁️ DevOps/Cloud aproach.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/jcqueiroz)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat-square&&logo=gitlab&logoColor=white&link=https://github.com/nymalone)](https://gitlab.com/queiroz-j)
