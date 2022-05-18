@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/jcqueiroz)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat-square&&logo=gitlab&logoColor=white&link=https://github.com/nymalone)](https://gitlab.com/queiroz-j)
 [![Dockerhub Badge](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/u/jcqueiroz/)
-[![Microsoft Learning](https://img.shields.io/badge/Microsoft-666666?style=flat-square&&logo=microsoft&logoColor=white)](https://docs.microsoft.com/pt-br/users/jeanqueiroz91)
+[![Microsoft Learning](https://img.shields.io/badge/Microsoft-666666?style=flat-square&&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/users/jeanqueiroz91)
 ![](https://komarev.com/ghpvc/?username=jcqueiroz&color=blueviolet)
 ![](https://img.shields.io/github/followers/jcqueiroz.svg?style=social&label=Follow&maxAge=2592000)
 
