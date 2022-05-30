@@ -20,6 +20,8 @@ I have formations in technical high school in Computer Technician , technologist
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcqueiroz&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/seu-usuário-aqui/jcqueiroz/blob/output/github-contribution-grid-snake.svg)
+
 <!--!
 <div>
   <a href="https://github.com/jcqueiroz">
