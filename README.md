@@ -14,13 +14,12 @@
 I have formations in technical high school in Computer Technician , technologist degree in IT Management at Instituto Infnet and especialization in Cloud Computing (Architecture and Projects) at Universidade Estácio de Sá, with this i intend to add even more knowledge, together with the various cloud providers of this segment such as: OCI, AWS, GCP, Azure and actually looking me to align with DevOps culture and Observability/Monitoring tools for IT Infrastrucuture.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcqueiroz&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcqueiroz&count_private=true&show_icons=true&theme=chartreuse-dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcqueiroz&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://git.io/streak-stats)
 
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcqueiroz&show_icons=true&langs_count=16&layout=compact&theme=chartreuse-dark)!-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcqueiroz&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://git.io/streak-stats)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcqueiroz&show_icons=true&langs_count=16&layout=compact&theme=chartreuse-dark)!-->
 
-![Snake animation](https://github.com/jcqueiroz/jcqueiroz/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/jcqueiroz/jcqueiroz/blob/output/github-contribution-grid-snake.svg)!-->
 
 <!--!
 <div>
