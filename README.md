@@ -13,14 +13,21 @@
 
 I have formations in technical high school in Computer Technician , technologist degree in IT Management at Instituto Infnet and especialization in Cloud Computing (Architecture and Projects) at Universidade Estácio de Sá, with this i intend to add even more knowledge, together with the various cloud providers of this segment such as: OCI, AWS, GCP, Azure and actually looking me to align with DevOps culture and Observability/Monitoring tools for IT Infrastrucuture.
 
+- 📫 How I prefer you to contact me: \
+    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=whitelink=https://github.com/nymalone)](https://www.linkedin.com/in/jean-queiroz-it/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcqueiroz&count_private=true&show_icons=true&theme=chartreuse-dark) 
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcqueiroz&count_private=true&show_icons=true&theme=chartreuse-dark) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcqueiroz&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcqueiroz&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://git.io/streak-stats) -->
 
 
+<div align="center">
+  
+<a href="https://github.com/jcqueiroz">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jcqueiroz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcqueiroz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  
+</div>
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcqueiroz&show_icons=true&langs_count=16&layout=compact&theme=chartreuse-dark)!-->
@@ -34,11 +41,3 @@ I have formations in technical high school in Computer Technician , technologist
    
   <img heigth="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigqapqth&layout=compact&langs_count=16&theme=dark"/> !-->    
 <!-- </div> !-->
-
-
-
-
-
-
-- 📫 How I prefer you to contact me: \
-    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=whitelink=https://github.com/nymalone)](https://www.linkedin.com/in/jean-queiroz-it/)
