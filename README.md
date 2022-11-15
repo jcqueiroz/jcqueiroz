@@ -1,4 +1,4 @@
-### Hi, I'm Jean Queiroz, welcome to my Personal-profile. 🙋‍♂️
+### Hi, I'm Jean Queiroz, welcome to my Personal-profile. :technologist:
 
 🖥️ Computer Geek , ☕ Coffee Addict , ☁️ DevOps/Cloud approach.
 
