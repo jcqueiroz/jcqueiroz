@@ -24,9 +24,9 @@ I have formations in technical high school in Computer Technician , technologist
 <div align="center">
   
 <a href="https://github.com/jcqueiroz">
-<img height="110em" src="https://github-profile-trophy.vercel.app/?username=jcqueiroz&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy"/>    
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcqueiroz&count_private=true&show_icons=true&theme=city_lights"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcqueiroz&layout=compact&langs_count=7&theme=city_lights"/>   
+<img height="110em" src="https://github-profile-trophy.vercel.app/?username=jcqueiroz&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy"/>    
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcqueiroz&count_private=true&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcqueiroz&layout=compact&langs_count=7&theme=tokyonight"/>   
   
 </div>
 
